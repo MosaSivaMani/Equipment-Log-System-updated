@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Equipment Log</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Equipment Log System</h1>
+    <form method="POST" action="/add">
+        <input type="text" name="name" placeholder="Equipment Name" required>
+        <input type="text" name="model" placeholder="Model" required>
+        <input type="text" name="location" placeholder="Location" required>
+        <input type="date" name="date" required>
+        <button type="submit">Add</button>
+    </form>
+
+    <h2>Equipment List</h2>
+    <table>
+        <tr>
+            <th>Name</th><th>Model</th><th>Location</th><th>Date</th>
+        </tr>
+        {% for eq in equipment %}
+        <tr>
+            <td>{{ eq[1] }}</td>
+            <td>{{ eq[2] }}</td>
+            <td>{{ eq[3] }}</td>
+            <td>{{ eq[4] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
