@@ -47,6 +47,16 @@ This project is ideal for:
 5. Export the data when needed
 
 ---
+## OutPut
+<img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/9be44818-0755-4d3f-a723-17d215a14057" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e1ae78a-4e10-42d6-aece-c39d192489fa" />
+<img width="1897" height="696" alt="image" src="https://github.com/user-attachments/assets/22153f48-5174-4c3f-9dd0-45a051ca8493" />
+<img width="1917" height="473" alt="image" src="https://github.com/user-attachments/assets/01910950-d264-4255-818d-8959bde59c94" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a021a34b-1ba6-4fec-89fa-25452adf6a5d" />
+
+
+
+
 
 ## 🛠️ Installation (For Developers)
 
