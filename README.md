@@ -9,7 +9,7 @@
 
 ## 📌 What It Does
 
-✅ Log equipment usage  
+✅ Log equipment usage 
 ⏱️ Record downtime with reasons and timestamps  
 📊 View logs in a dashboard format  
 📤 Export logs to Excel or PDF for reporting  
